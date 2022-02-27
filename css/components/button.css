@@ -1,0 +1,18 @@
+.flex-btn
+{
+	display: flex;
+	justify-content: space-around;
+	align-content: center;
+}
+
+
+.btn-purple
+{
+	width: 160px;
+	padding: 5px 45px;
+	border-radius: 10px;
+	background: #580094;
+	color: white;
+	text-align: center;
+
+}
